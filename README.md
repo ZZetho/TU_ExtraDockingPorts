@@ -1,6 +1,6 @@
 ## A collection of Textures Unlimited Recolour Depot recolours for all of the parts from the Extra Docking Ports mod
 
-![wow look at them all](TU_EDP_image.png)
+![wow look at them all](https://i.imgur.com/nuo8IfB.png)
 
 # Dependencies:
 - [Textures Unlimited](https://forum.kerbalspaceprogram.com/topic/167450-19x-textures-unlimited-pbr-shader-texture-set-and-model-loading-api/)
